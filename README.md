@@ -1,0 +1,1 @@
+Description This project aims to design and implement an automatic cat feeding machine that uses fuzzy logic as its main control system. Fuzzy logic was chosen for its ability to handle uncertainty and vague data, which is very suitable for decision making in uncertain situations such as cat feeding behavior
